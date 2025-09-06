@@ -32,6 +32,16 @@ A beautiful, modern currency converter app built with Flutter that provides real
 ![Bottom Sheet Loaded State](assets/images/bottom_sheet_loaded_state.png)
 *Comprehensive currency list with search functionality*
 
+### Landscape Mode
+
+#### Landscape Empty State
+![Landscape Empty State](assets/images/landscape_empty_state.png)
+*Optimized layout for landscape orientation with better space utilization*
+
+#### Landscape Converted State
+![Landscape Converted State](assets/images/landscape_converted_state.png)
+*Landscape mode showing conversion results with improved horizontal layout*
+
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX**
@@ -220,6 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Flutter Team**: For the amazing framework
 - **Riverpod**: For excellent state management
 - **Currency API Providers**: For real-time exchange rate data
+- **[Flagpedia.net](https://flagpedia.net)**: For providing high-quality country flag images
 - **Open Source Community**: For the amazing packages and tools
 
 ## 📞 Support
