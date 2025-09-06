@@ -37,6 +37,7 @@ A beautiful, modern currency converter app built with Flutter that provides real
 ### 🎨 **Modern UI/UX**
 - **Beautiful Gradient Background**: Custom gradient design with smooth color transitions
 - **Responsive Design**: Optimized for all screen sizes and orientations
+- **Landscape Mode Support**: Fully optimized layout for both portrait and landscape orientations
 - **Skeleton Loading**: Elegant loading animations using Skeletonizer
 - **Smooth Animations**: Fluid transitions and micro-interactions
 
@@ -187,6 +188,7 @@ flutter test --coverage
 - **Android**: Material Design implementation
 - **Web**: Responsive web application
 - **Desktop**: Cross-platform desktop support
+- **Orientation Support**: Seamless experience in both portrait and landscape modes
 
 ## 🔧 Development
 
