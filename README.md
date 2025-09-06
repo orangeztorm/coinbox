@@ -34,13 +34,9 @@ A beautiful, modern currency converter app built with Flutter that provides real
 
 ### Landscape Mode
 
-#### Landscape Empty State
-![Landscape Empty State](assets/images/landscape_empty_state.png)
-*Optimized layout for landscape orientation with better space utilization*
-
 #### Landscape Converted State
-![Landscape Converted State](assets/images/landscape_converted_state.png)
-*Landscape mode showing conversion results with improved horizontal layout*
+![Landscape Converted State](assets/images/landscape.png)
+*Landscape mode showing conversion results with improved horizontal layout - ANG to AED conversion*
 
 ## ✨ Features
 
