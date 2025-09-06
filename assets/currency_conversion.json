@@ -1,0 +1,12 @@
+{
+"result": "success",
+"documentation": "https://www.exchangerate-api.com/docs",
+"terms_of_use": "https://www.exchangerate-api.com/terms",
+"time_last_update_unix": 1757116801,
+"time_last_update_utc": "Sat, 06 Sep 2025 00:00:01 +0000",
+"time_next_update_unix": 1757203201,
+"time_next_update_utc": "Sun, 07 Sep 2025 00:00:01 +0000",
+"base_code": "EUR",
+"target_code": "GBP",
+"conversion_rate": 0.8676
+}
